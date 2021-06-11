@@ -42,7 +42,9 @@
     "jwtSecretKey": "MjRhOTI4YjYzMDgwOTA4ZDA2ODg5M2U3OWM3OWVkOThmYWU0MTlhN2RjNzE0YjY5NjRjMjFiNTU3OTA4MmFjMWU1MmU4ZWUwYWFhMjRlZmUzYmEyNWZhYmMxYzA2MGVhZjU0MTFkMzUzODU5Y2U3ZWZlYWQwMWMwMzc1MDVmNTk=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "lastLiquibaseTimestamp": 1623435449000,
+    "entities": ["UserTest"]
   },
   "git-provider": "GitHub",
   "git-company": "samanaslani1992",
